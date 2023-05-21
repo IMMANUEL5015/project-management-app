@@ -18,6 +18,7 @@ stipulated below.
 * [Pagination](#pagination)
 * [Sorting](#sorting)
 * [File Upload](#file-upload)
+* [Testing GraphQL APIs in Postman](#testing-graphql-apis-in-postman)
 
 ### Authentication
 
@@ -36,3 +37,5 @@ stipulated below.
 ### Sorting
 
 ### File Upload
+
+### Testing GraphQL APIs in Postman
